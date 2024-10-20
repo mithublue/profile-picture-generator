@@ -4,17 +4,17 @@ Profile Picture Generator with Layers is a web-based tool that allows users to c
 This tool is hosted live at: <a href="https://cybercraftit.com/apps/profile-pic-generator/">CyberCraft Profile Picture Generator</a>
 
 <h2>Features</h2>
-1. **Image Upload and Customization :**
+1. <b>Image Upload and Customization :</b>
    Upload a profile image or avatar to the canvas.
    Upload a badge or frame to add visual enhancements to your profile picture.
    Rotate and scale the image to fit your preferences.
-2. **Text Overlays:**
+2. <b>Text Overlays:</b>
    Add customizable text with options for font size, color, and family.
    Text can be positioned anywhere on the canvas and easily modified.
-3. **Layers Management :**
+3. <b>Layers Management :</b>
    Each element added to the canvas (images, badges, text) appears as a separate layer.
    Users can see the list of layers in real-time and manage them efficiently.
-4. **Download :**
+4. <b>Download :</b>
    Once your profile picture is complete, you can download it in .png format with a single click.
 
 
@@ -69,18 +69,18 @@ You can try out the live version of this project here: <a target="_blank" href="
 
 
 <h2>Technologies Used</h2>
-* **HTML5:** For the structure of the web page.
-* **Tailwind CSS:** For styling the layout.
-* **Fabric.js:** For canvas manipulation and handling images, text, and layers.
-* **jQuery:** Simplified DOM manipulation and event handling.
-* **html2canvas:** For converting the canvas into a downloadable image format.
+* <b>HTML5:</b> For the structure of the web page.
+* <b>Tailwind CSS:</b> For styling the layout.
+* <b>Fabric.js:</b> For canvas manipulation and handling images, text, and layers.
+* <b>jQuery:</b> Simplified DOM manipulation and event handling.
+* <b>html2canvas:</b> For converting the canvas into a downloadable image format.
 
 <h2>Future Improvements</h2>
-* **Layer Reordering:** Allow users to move layers up and down in the stacking order.
-* **Image Filters:** Add filters (e.g., brightness, contrast) for further customization of the images.
-* **Mobile Optimization:** Enhance the user experience on smaller screens and mobile devices.
-* **Preset Templates:** Offer preset layouts and designs for quicker profile picture generation.
-* **Undo/Redo :** If you make a mistake, use the Undo button to revert to the previous action. You can also Redo the action if needed.
+* <b>Layer Reordering:</b> Allow users to move layers up and down in the stacking order.
+* <b>Image Filters:</b> Add filters (e.g., brightness, contrast) for further customization of the images.
+* <b>Mobile Optimization:</b> Enhance the user experience on smaller screens and mobile devices.
+* <b>Preset Templates:</b> Offer preset layouts and designs for quicker profile picture generation.
+* <b>Undo/Redo :</b> If you make a mistake, use the Undo button to revert to the previous action. You can also Redo the action if needed.
 
 <h2>Contributing</h2>
 Contributions, issues, and feature requests are welcome!
