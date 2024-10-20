@@ -44,20 +44,24 @@ To run the project locally, you'll need:
 
 <h2>Usage</h2>
 <h3>Uploading Images</h3>
+
 * To upload a profile image, click on the "Upload Profile Image" button and select the desired image from your computer.
 * You can also upload additional badges or frames to overlay on top of your profile picture.
 * To delete the uploaded image, click on "Delete Image".
 
 <h3>Adding Text</h3>
+
 * Enter the text you wish to display on the profile picture in the text input field.
 * Customize the text's font size, color, and family using the provided options.
 * After adding text, you can drag it around the canvas to adjust its position.
 
 <h3>Modifying Images</h3>
+
 * You can rotate the image using the Rotate Image slider.
 * Use the Scale Image slider to resize the image.
 
 <h3>Layers Panel</h3>
+
 * View all the layers (images, text, badges) currently on the canvas.
 * You can interact with and manage the layers in real time.
 
@@ -69,6 +73,7 @@ You can try out the live version of this project here: <a target="_blank" href="
 
 
 <h2>Technologies Used</h2>
+
 * <b>HTML5:</b> For the structure of the web page.
 * <b>Tailwind CSS:</b> For styling the layout.
 * <b>Fabric.js:</b> For canvas manipulation and handling images, text, and layers.
@@ -76,6 +81,7 @@ You can try out the live version of this project here: <a target="_blank" href="
 * <b>html2canvas:</b> For converting the canvas into a downloadable image format.
 
 <h2>Future Improvements</h2>
+
 * <b>Layer Reordering:</b> Allow users to move layers up and down in the stacking order.
 * <b>Image Filters:</b> Add filters (e.g., brightness, contrast) for further customization of the images.
 * <b>Mobile Optimization:</b> Enhance the user experience on smaller screens and mobile devices.
